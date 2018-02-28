@@ -1,0 +1,11 @@
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\bin\Debug\KeithleyRecorderFrom.dll
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\bin\Debug\KeithleyRecorderFrom.pdb
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\bin\Debug\Ivi.Visa.dll
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\bin\Debug\KeithleyInstruments.Keithley2450.Interop.dll
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\bin\Debug\Ivi.Visa.xml
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\bin\Debug\KeithleyInstruments.Keithley2450.Interop.xml
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\obj\Debug\KeithleyRecorderFrom.csprojResolveAssemblyReference.cache
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\obj\Debug\Keithley2450_Csharp.KiethleyRecorderForm.resources
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\obj\Debug\KeithleyRecorderFrom.csproj.GenerateResource.Cache
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\obj\Debug\KeithleyRecorderFrom.dll
+c:\users\secretmunday\documents\visual studio 2017\Projects\test\KeithleyRecorderFrom\KeithleyRecorderFrom\obj\Debug\KeithleyRecorderFrom.pdb
